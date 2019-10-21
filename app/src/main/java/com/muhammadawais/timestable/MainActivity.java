@@ -12,7 +12,7 @@ import android.widget.SeekBar;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-//generate list view and connect 
+//generate list view and connect
     ListView timesTablesList;
 
     public void generateTimesTable(int timesTableNumber) {
